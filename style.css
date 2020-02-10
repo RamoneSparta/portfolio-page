@@ -10,5 +10,11 @@ h1
   background-color: blue
 }
 .blue-text{
-  background-color: blue
+  background-color: blue;
+  text-align: center;
 }
+.images{
+text-align: center;
+width: 200px;
+height: 200px
+  }
