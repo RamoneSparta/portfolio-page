@@ -27,5 +27,11 @@ height: 200px;
   }
   .container-left
   {
-    margin-left: auto;
+    float: left;
+    border-color: black;
+  }
+  .container-right
+  {
+    float: right;
+    border-color: black;
   }
