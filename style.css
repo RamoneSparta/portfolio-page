@@ -1,4 +1,4 @@
-p{
+p.red{
   background-color: red
 }
 body
@@ -9,6 +9,45 @@ h1
 {
   background-color: blue
 }
-.blue-text{
-  background-color: blue
+h2
+{
+  text-align: center;
 }
+.blue-text{
+  background-color: blue;
+  text-align: center;
+}
+.images{
+text-align: center;
+width: 200px;
+height: 200px;
+
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .container-left
+  {
+    text-align: center;
+    float: left;
+    border-color: black;
+    width: 50%;
+  }
+  .container-right
+  {
+    text-align: center;
+    float: right;
+    border-color: black;
+    width: 50%;
+  }
+  .container-bottom
+  {
+    text-align: center;
+    vertical-align: middle;
+    border-color: black;
+    
+    margin-top: 30vh;
+  }
